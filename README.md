@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning about web devolopment and programming in Java
+- 👀 I’m interested in computery things
+- 🌱 I’m figuring out what I want to do as a career
 - 💞️ I’m looking to work on projects I want to work on
 - 📫 Hello
 
